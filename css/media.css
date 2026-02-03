@@ -1,0 +1,2369 @@
+@media (max-width: 575.98px) {
+
+/* nav-section-strat  */
+ 
+   .nav_link{
+   position: absolute;
+        top: 100px;
+        left: 0;
+        width: 100%;
+        background: white;
+        display: none;
+        text-align: center;
+        padding: 20px 0;
+}
+.menu-toggle{
+        display: inline-block;
+    }
+
+.nav-logo{
+  width: 100%;
+}
+.nav-logo a{
+  display: block;
+}
+.nav_link li {
+    list-style: none;
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+  .nav_link{
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.nav_link a {
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 43px;
+    left: 0px;
+    background: #080808;
+    width: 208px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    transform: translate(138px, -11px);
+}
+ /* ----------nav-section-End------------- */
+/* -------------- banner-section-start---------- */
+.banner-part img{
+    width: 100%;
+    height:calc(100vh - 105px);
+}
+    .banner-text h1 {
+        font-size: 16px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        letter-spacing: 2px;
+        line-height: 0px;
+        margin-bottom: 23px;
+    }
+.banner-text h2 {
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 35px;
+    color: #FFFFFF;
+   padding: 0 0 8px;
+}
+.banner-text a {
+   
+          padding: 12px 31px;
+   
+    font-size: 16px;
+
+}
+.banner-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-49%, -15%);
+    text-align: center;
+}
+.banner-part img {
+        width: 100%;
+        height: calc(96vh - 66px);  
+    }
+/* ------------banner-section-end -------------- */
+/*---------------- banner-card-section-start ------------- */
+.banner-card-section{
+    padding: 60px  0    15px;
+}
+ .banner-card-box-sec{
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  }
+  .banner-card-box{
+        transform: translate(1px, 39%)  ;
+     
+}
+  .banner-card-box-1 {
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+}
+.boder-right {
+    border-width: 0px;
+    border-bottom: 2px solid #EDEDED;
+}
+  /* --------------banner-card-section-end ------------- */
+  /* ----------------------welocome-parking-setion-start--------- */
+  .welcome-to-car-parking-bg{
+    padding-top: 833px;
+    padding-bottom: 60px;
+  }
+  .welcome-to-car-parking-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+  }
+.welcome-to-car-parking-images-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.welocome-toparking-images{
+    text-align: center;
+}
+.welocome-toparking-images img{
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+.welcome-to-car-parking-text{
+    margin-left:0px;
+    width: 100%;
+    text-align: center;
+}
+.welcome-to-car-parking-text h3 {
+    font-size: 34px;
+    margin-bottom: 20px;
+  
+}
+.welcome-to-car-parking-text p {
+   
+    font-size: 17px;
+    
+    padding-bottom: 20px;
+}
+/* --------------welocome-parking-setion-End ----------------- */
+ /* ----------------why-choose-parking-start------------------ */
+ .why-choose-parking-bg{
+      position: relative;
+    background: linear-gradient(360deg, rgb(0, 121, 248) 57%, rgb(255, 255, 255) 0%);
+    padding: 63px 0px 63px;
+    position: relative;
+}
+
+ .why-choose-parking-sec {
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+ .why-choose-parking-main-sec{
+
+    width: 100%; 
+flex-wrap: wrap;
+flex-direction: column;
+align-items:center;
+}
+.why-choose-parking-card-sec{
+
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+
+}
+.why-choose-parking-tittle{
+    text-align: center;
+}
+.why-choose-parking-sub-tittle{
+    text-align: center;
+    width: 100%;
+}
+.why-choose-parking-sub-tittle h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+    width: 100%;
+}
+
+.why-choose-parking-sub-tittle p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: #494848;
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.why-choose-parking-card-bg-sec {
+   flex-wrap: wrap;
+   flex-direction: column;
+   
+    align-items: center;
+}
+.why-choose-parking-card-bg {
+    background-color: #FFFFFF;
+         padding: 26px 18px 27px 18px;
+    border-radius: 20px 20px 20px 20px;
+    margin-bottom: 24px;
+    width: 100%;
+    transform: translate(0px, 52px);
+
+    
+}
+.why-choose-parking-text{
+    text-align: center;
+}
+.why-chhoose-parking-card-images img {
+    margin-right: 0px;
+}
+ /*------------ why-choose-parking-End=------------  */
+
+
+ /* .-----------------type-of-car-parking-section-start ---------------  */
+ .type-of-car-parking-section-bg {
+    padding: 63px 0 60px;
+    background-color: #F8F8F8;
+}
+.type-of-parking-sub-heading-text{
+ 
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+/*----- rent-out-your-driveway-section-start ----------- */
+.rent-out-your-driveway-tiitle h3 {
+    font-size: 30px;
+    max-width: 767px;
+    width: 100%;
+    
+}
+.rent-out-your-driveway-background {
+    background-image: url(../images/rent.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+ background-size: cover;
+    position: relative;
+    z-index: 1;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+}
+/* free-consultatton-section-start  */
+.free-consultatton-box {
+    transform: translate(0px, 85px);
+    padding: 33px 20px 33px 20px;
+  
+}
+.free-consultatton-box-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.free-consultatton-box-form-text {
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+#name{
+   
+
+    padding: 12px 12px;
+    margin-right: 20px;
+    display:block;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0px;
+ 
+}
+#eamil{
+ 
+    font-size: 16px;
+    padding: 12px 12px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+.free-consultatton-box-form-text h3{
+  font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+}
+#type-of-services-1 {
+
+    font-size: 16px;
+    padding: 12px 12px;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
+#form-services {
+  
+    font-size: 16px;
+    padding: 12px 12px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+  
+}
+
+    .feel-free-contact-to-services-part {
+        padding: 30px 20px 30px 20px;
+        position: absolute;
+        top: -109px;
+        left: 15%;
+        transform: translate(-13%, 128%);
+        
+}
+.feel-free-contact-services-sec {
+    flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.feel-free-contact-services-text {
+    width: 100%;
+    text-align: center;
+}
+.feel-free-contact-services-sub-tittle {
+    width: 100%;
+    text-align: center;
+}
+.feel-free-contact-services-button {
+    width: 100%;
+    text-align: center;
+}
+.services-text-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 2em;
+    color: #FFFFFF;
+}
+.services-text-tittle-2 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height:3em;
+    color: #FFFFFF;
+}
+.services-text-tittle-3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height:2em;
+    color: #FFFFFF;
+}
+
+/* ----------see-our-parking-section-start----------  */
+.see-our-parking-sec {
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.see-our-parking-bg {
+    background-color: #F7F7F7;
+    padding: 750px 0 60px;
+}
+.see-our-parking-main {
+    width: 100%;
+}
+.see-our-parking-text-heading{
+    text-align: center;
+}
+.see-our-parking-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    margin-bottom: 34px;
+}
+.see-our-parking-para-box {
+    background-color: #FFFFFF;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.05);
+    width: 100%;
+}
+.see-our-parking-para-box p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+    width: 100%;
+    text-align: center;
+}
+.see-our-parking-button-sec {
+    padding: 34px 0 0 0;
+    text-align: center;
+}
+.see-our-parking-iamges-box {
+    width: 100%;
+}
+/* ----see-our-parking-section-End ------- */
+ /* --------------area-we-serving-section-start----------- */
+ .are-we-serving-card-sec{
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+.are-we-serving-card{
+ width: 100%;
+  cursor: pointer;
+    padding: 15px;
+}
+.are-we-serving-text-sec {
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+}
+.area-we-serving-text-heading h2 {
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 16px;
+    font-family: "Poppins", Sans-serif;
+    color: #272727;
+}
+.area-we-serving-info-box {
+    text-align: center;
+    padding: 0px 24px;
+}
+.area-we-serving-bg {
+    background-color: #ffffff;
+    background-image: url(../images/serving-bottom.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding: 68px 0px 68px 0px;
+    background-size:100% , 100%;
+}
+.area-we-serving-iamges {
+    height: 270px;
+    overflow: hidden;
+    line-height: 0;
+    text-align: center;
+}
+/* -----------availiable-paking-spaces-section start  ------------ */
+
+.availiable-paking-spaces-bg {
+    background-image: url(../images/parking-space-1bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    position: relative;
+    z-index: 1;
+    padding: 120px 0px 120px 0px;
+}
+.availiable-paking-spaces-card-bg-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.availiable-paking-spaces-card {
+    padding: 0px 0px 0px 0px;
+}
+.availiable-paking-spaces-card-sec {
+   flex-wrap: wrap;
+}
+.availiable-paking-spaces-text-subtittle {
+
+    font-size: 32px;
+ 
+
+}
+.availiable-paking-spaces-card-bg {
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 30px 30px 45px 30px;
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 10px;
+}
+.availiable-paking-spaces-card-images {
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+}
+.availiable-paking-spaces-card-text{
+    text-align: center;
+}
+.online-parking-app-bg {
+    background-color: #F8F8F8;
+    padding: 60px 0 60px 0;
+}
+
+/*----------- online-parking-app-section-start------------ */
+
+.online-parking-app-button-sec{
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+}
+.online-parking-app-button-1:nth-child(1){
+  margin-right: 0px;
+  margin-bottom:15px;
+}
+.onling-parking-app-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.online-parking-app-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    max-width: 480px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.online-parking-app-text-heading{
+    text-align: center;
+}
+.online-parking-app-text-heading p {
+    padding: 10px 0px 60px 0px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+    width: 100%;
+    margin-bottom: 20px;
+}
+/* parking-pricing-section-stat   */
+.parking-rates-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.parking-reates-card {
+    width: 100%;
+    cursor: pointer;
+}
+.parking-pricing-text-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+.parking-pricing-bg {
+    background-color: #FFFFFF;
+    padding: 69px 0px 64px 0px;
+}
+.parking-reat-card-tittle-2 h4 {
+    font-family: "Poppins", Sans-serif;
+    font-size:46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-4 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-7 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-10 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.parking-reat-button{
+    text-align: center;
+}
+/* ----------feedback-parking-section-start ----------- */
+.info-section{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.feedback-parking-section-wrapper {
+    padding: 78px 0 78px;
+    width: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #0079F8 39%, #F8F8F8 0%);
+}
+.left-text-section{
+    text-align: center;
+}
+.left-text-section h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+}
+.feedback-parking-sec{
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+  margin-left: 0px;
+}
+.feedback-parking-images{
+    text-align: center;
+}
+.feedback-parking-main-box-text{
+  width:100%;
+ 
+    padding: 10px;
+    text-align:center;
+}
+ .right-section{
+    padding-top: 100px;
+ }
+.feedback-custome-sec{
+ flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+    width: 100% !important;
+}
+.feedback-custome-card-sec{
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+.parking-upadted-text {
+    padding-left: 0px;
+    text-align: center;
+}
+.parking-upadted-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.feedback-parking-images img {
+    max-width: 100%;
+}
+.testimonai-slider-card{
+width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px 15px;
+  border-radius: 12px;
+  text-align: center;  flex-wrap: wrap;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+ .feedbox {
+    flex-direction: column;
+  }
+
+  .left-section,
+  .right-section {
+    width: 100%;
+  }
+
+  .testimonai-slider-card {
+    box-shadow: none;
+  }
+.testimonai-background{
+   background: #fff;
+      padding: 30px;
+    border-radius: 15px;
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+     width: 100%;
+    
+}
+.testimonai-slider-card-text{
+  width: 100%;
+    text-align: center;
+      font-family: "Poppins", Sans-serif;
+      padding: 0 20px 0 ;
+       color: #1c1c1c;
+}
+/* ------------footer-section-start ------------ */
+.footer-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-end-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-end-text{
+    text-align: center;
+}
+.footer-text p {
+    width: 99%;
+    font-family: "Poppins", Sans-serif;
+    color: #838282;
+    font-size: 16px;
+}
+.footer-background {
+    background-color: #141414;
+    padding: 60px 0 50px;
+}
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+ /* nav-section-strat  */
+ 
+   .nav_link{
+   position: absolute;
+        top: 100px;
+        left: 0;
+        width: 100%;
+        background: white;
+        display: none;
+        text-align: center;
+        padding: 20px 0;
+}
+.menu-toggle{
+        display: inline-block;
+    }
+
+.nav-logo{
+  width: 100%;
+}
+.nav-logo a{
+  display: block;
+}
+.nav_link li {
+    list-style: none;
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+  .nav_link{
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.nav_link a {
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 43px;
+    left: 64px;
+    background: #080808;
+    width: 208px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    transform: translate(138px, -11px);
+}
+ /* ----------nav-section-End------------- */
+/* -------------- banner-section-start---------- */
+.banner-part img{
+    width: 100%;
+    height:calc(100vh - 105px);
+}
+    .banner-text h1 {
+        font-size: 16px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        letter-spacing: 2px;
+        line-height: 0px;
+        margin-bottom: 23px;
+    }
+.banner-text h2 {
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 35px;
+    color: #FFFFFF;
+   padding: 0 0 8px;
+}
+.banner-text a {
+   
+          padding: 12px 31px;
+   
+    font-size: 16px;
+
+}
+.banner-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-49%, -15%);
+    text-align: center;
+}
+.banner-part img {
+        width: 100%;
+        height: calc(96vh - 66px);  
+    }
+/* ------------banner-section-end -------------- */
+/*---------------- banner-card-section-start ------------- */
+.banner-card-section{
+    padding: 60px  0    15px;
+}
+ .banner-card-box-sec{
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  }
+  .banner-card-box{
+        transform: translate(1px, 39%)  ;
+     
+}
+  .banner-card-box-1 {
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+}
+.boder-right {
+    border-width: 0px;
+    border-bottom: 2px solid #EDEDED;
+}
+  /* --------------banner-card-section-end ------------- */
+  /* ----------------------welocome-parking-setion-start--------- */
+  .welcome-to-car-parking-bg{
+    padding-top: 833px;
+    padding-bottom: 60px;
+  }
+  .welcome-to-car-parking-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+  }
+.welcome-to-car-parking-images-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.welocome-toparking-images{
+    text-align: center;
+}
+.welocome-toparking-images img{
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+.welcome-to-car-parking-text{
+    margin-left:0px;
+    width: 100%;
+    text-align: center;
+}
+.welcome-to-car-parking-text h3 {
+    font-size: 34px;
+    margin-bottom: 20px;
+  
+}
+.welcome-to-car-parking-text p {
+   
+    font-size: 17px;
+    
+    padding-bottom: 20px;
+}
+/* --------------welocome-parking-setion-End ----------------- */
+ /* ----------------why-choose-parking-start------------------ */
+ .why-choose-parking-bg{
+      position: relative;
+    background: linear-gradient(360deg, rgb(0, 121, 248) 57%, rgb(255, 255, 255) 0%);
+    padding: 63px 0px 63px;
+    position: relative;
+}
+
+ .why-choose-parking-sec {
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+ .why-choose-parking-main-sec{
+
+    width: 100%; 
+flex-wrap: wrap;
+flex-direction: column;
+align-items:center;
+}
+.why-choose-parking-card-sec{
+
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+
+}
+.why-choose-parking-tittle{
+    text-align: center;
+}
+.why-choose-parking-sub-tittle{
+    text-align: center;
+    width: 100%;
+}
+.why-choose-parking-sub-tittle h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+    width: 100%;
+}
+
+.why-choose-parking-sub-tittle p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: #494848;
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.why-choose-parking-card-bg-sec {
+   flex-wrap: wrap;
+   flex-direction: column;
+   
+    align-items: center;
+}
+.why-choose-parking-card-bg {
+    background-color: #FFFFFF;
+         padding: 26px 18px 27px 18px;
+    border-radius: 20px 20px 20px 20px;
+    margin-bottom: 24px;
+    width: 100%;
+    transform: translate(0px, 52px);
+
+    
+}
+.why-choose-parking-text{
+    text-align: center;
+}
+.why-chhoose-parking-card-images img {
+    margin-right: 0px;
+}
+ /*------------ why-choose-parking-End=------------  */
+
+
+ /* .-----------------type-of-car-parking-section-start ---------------  */
+ .type-of-car-parking-section-bg {
+    padding: 63px 0 60px;
+    background-color: #F8F8F8;
+}
+.type-of-parking-sub-heading-text{
+ 
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+/*----- rent-out-your-driveway-section-start ----------- */
+.rent-out-your-driveway-tiitle h3 {
+    font-size: 30px;
+    max-width: 767px;
+    width: 100%;
+    
+}
+.rent-out-your-driveway-background {
+    background-image: url(../images/rent.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+ background-size: cover;
+    position: relative;
+    z-index: 1;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+}
+/* free-consultatton-section-start  */
+.free-consultatton-box {
+    transform: translate(0px, 85px);
+    padding: 33px 20px 33px 20px;
+  
+}
+.free-consultatton-box-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.free-consultatton-box-form-text {
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+#name {
+   
+
+    padding: 12px 12px;
+    margin-right: 20px;
+    display:block;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0px;
+ 
+}
+#email {
+ 
+    font-size: 16px;
+    padding: 12px 12px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+.free-consultatton-box-form-text h3{
+  font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+}
+#type-of-services-1 {
+
+    font-size: 16px;
+    padding: 12px 12px;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
+#form-services {
+  
+    font-size: 16px;
+    padding: 12px 12px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+  
+}
+
+    .feel-free-contact-to-services-part {
+        padding: 30px 20px 30px 20px;
+        position: absolute;
+        top: -109px;
+        left: 15%;
+        transform: translate(-13%, 128%);
+        
+}
+.feel-free-contact-services-sec {
+    flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.feel-free-contact-services-text {
+    width: 100%;
+    text-align: center;
+}
+.feel-free-contact-services-sub-tittle {
+    width: 100%;
+    text-align: center;
+}
+.feel-free-contact-services-button {
+    width: 100%;
+    text-align: center;
+}
+.services-text-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 2em;
+    color: #FFFFFF;
+}
+.services-text-tittle-2 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height:3em;
+    color: #FFFFFF;
+}
+.services-text-tittle-3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height:2em;
+    color: #FFFFFF;
+}
+
+/* ----------see-our-parking-section-start----------  */
+.see-our-parking-sec {
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.see-our-parking-bg {
+    background-color: #F7F7F7;
+    padding: 750px 0 60px;
+}
+.see-our-parking-main {
+    width: 100%;
+}
+.see-our-parking-text-heading{
+    text-align: center;
+}
+.see-our-parking-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    margin-bottom: 34px;
+}
+.see-our-parking-para-box {
+    background-color: #FFFFFF;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.05);
+    width: 100%;
+}
+.see-our-parking-para-box p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+    width: 100%;
+    text-align: center;
+}
+.see-our-parking-button-sec {
+    padding: 34px 0 0 0;
+    text-align: center;
+}
+.see-our-parking-iamges-box {
+    width: 100%;
+}
+/* ----see-our-parking-section-End ------- */
+ /* --------------area-we-serving-section-start----------- */
+ .are-we-serving-card-sec{
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+.are-we-serving-card{
+ width: 100%;
+  cursor: pointer;
+    padding: 15px;
+}
+.are-we-serving-text-sec {
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+}
+.area-we-serving-text-heading h2 {
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 16px;
+    font-family: "Poppins", Sans-serif;
+    color: #272727;
+}
+.area-we-serving-info-box {
+    text-align: center;
+    padding: 0px 24px;
+}
+.area-we-serving-bg {
+    background-color: #ffffff;
+    background-image: url(../images/serving-bottom.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding: 68px 0px 68px 0px;
+    background-size:100% , 100%;
+}
+.area-we-serving-iamges {
+    height: 270px;
+    overflow: hidden;
+    line-height: 0;
+    text-align: center;
+}
+/* -----------availiable-paking-spaces-section start  ------------ */
+
+.availiable-paking-spaces-bg {
+    background-image: url(../images/parking-space-1bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    position: relative;
+    z-index: 1;
+    padding: 120px 0px 120px 0px;
+}
+.availiable-paking-spaces-card-bg-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.availiable-paking-spaces-card {
+    padding: 0px 0px 0px 0px;
+}
+.availiable-paking-spaces-card-sec {
+   flex-wrap: wrap;
+}
+.availiable-paking-spaces-text-subtittle {
+
+    font-size: 32px;
+ 
+
+}
+.availiable-paking-spaces-card-bg {
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 30px 30px 45px 30px;
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 10px;
+}
+.availiable-paking-spaces-card-images {
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+}
+.availiable-paking-spaces-card-text{
+    text-align: center;
+}
+.online-parking-app-bg {
+    background-color: #F8F8F8;
+    padding: 60px 0 60px 0;
+}
+
+/*----------- online-parking-app-section-start------------ */
+
+.online-parking-app-button-sec{
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+}
+.online-parking-app-button-1:nth-child(1){
+  margin-right: 0px;
+  margin-bottom:15px;
+}
+.onling-parking-app-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.online-parking-app-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+     max-width: 576px;
+margin:  0 auto;
+    margin-bottom: 20px;
+}
+.online-parking-app-text-heading{
+    text-align: center;
+}
+.online-parking-app-text-heading p {
+    padding: 10px 0px 60px 0px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+ margin: 0 auto;
+    margin-bottom: 20px;
+}
+/* parking-pricing-section-stat   */
+.parking-rates-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.parking-reates-card {
+    width: 100%;
+    cursor: pointer;
+}
+.parking-pricing-text-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+.parking-pricing-bg {
+    background-color: #FFFFFF;
+    padding: 69px 0px 64px 0px;
+}
+.parking-reat-card-tittle-2 h4 {
+    font-family: "Poppins", Sans-serif;
+    font-size:46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-4 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-7 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.tittle-10 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #272727;
+}
+.parking-reat-button{
+    text-align: center;
+}
+/* ----------feedback-parking-section-start ----------- */
+.info-section{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.feedback-parking-section-wrapper {
+    padding: 78px 0 78px;
+    width: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #0079F8 50%, #F8F8F8 0%);
+}
+.left-text-section{
+    text-align: center;
+}
+.left-text-section h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+  
+}
+.feedback-parking-sec{
+flex-wrap: wrap;
+flex-direction: column;
+align-items: center;
+  margin-left: 0px;
+}
+.feedback-parking-images{
+    text-align: center;
+}
+.feedback-parking-main-box-text{
+  width:100%;
+ 
+    padding: 10px;
+    text-align:center;
+}
+ .right-section{
+    padding-top: 100px;
+ }
+.feedback-custome-sec{
+ flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+    width: 100% !important;
+}
+.feedback-custome-card-sec{
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+}
+.parking-upadted-text {
+    padding-left: 0px;
+    text-align: center;
+}
+.parking-upadted-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.feedback-parking-images img {
+    max-width: 100%;
+}
+.testimonai-slider-card{
+width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px 15px;
+  border-radius: 12px;
+  text-align: center;  flex-wrap: wrap;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+ .feedbox {
+    flex-direction: column;
+  }
+
+  .left-section,
+  .right-section {
+    width: 100%;
+  }
+
+  .testimonai-slider-card {
+    box-shadow: none;
+  }
+.testimonai-background{
+   background: #fff;
+      padding: 30px;
+    border-radius: 15px;
+ flex-wrap: wrap;
+ flex-direction: column;
+ align-items: center;
+     width: 100%;
+    
+}
+.testimonai-slider-card-text{
+  width: 100%;
+    text-align: center;
+      font-family: "Poppins", Sans-serif;
+      padding: 0 20px 0 ;
+       color: #1c1c1c;
+}
+/* ------------footer-section-start ------------ */
+.footer-sec{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-end-sec {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-end-text{
+    text-align: center;
+}
+.footer-text p {
+    width: 99%;
+    font-family: "Poppins", Sans-serif;
+    color: #838282;
+    font-size: 16px;
+}
+.footer-background {
+    background-color: #141414;
+    padding: 60px 0 50px;
+}
+}
+
+/* 
+Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .nav_link{
+   position: absolute;
+        top: 100px;
+        left: 0;
+        width: 100%;
+        background: white;
+        display: none;
+        text-align: center;
+        padding: 20px 0;
+}
+.menu-toggle{
+        display: inline-block;
+    }
+
+.nav-logo{
+  width: 100%;
+}
+.nav-logo a{
+  display: block;
+}
+.nav_link li {
+    list-style: none;
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+  .nav_link{
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+.nav_link a {
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 43px;
+    left: 203px;
+    background: #080808;
+    width: 208px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    transform: translate(138px, -11px);
+}
+ /* ----------nav-section-End------------- */
+ /* --------banner-part-section-start-------- */
+ .banner-part img {
+ width: 100%; 
+ height: calc(70vh - -181px);
+}
+.banner-text h2 {
+    font-size: 37px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 43.5px;
+    color: #FFFFFF;
+    margin-bottom: 16px; 
+}
+.banner-text h1 {
+    color: #FFFFFF;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: 33.8px;
+    margin-bottom: 20px;
+}
+ /* ----------banner-card-section-start-----------  */
+
+.banner-card-box-1 {
+    width: 100%;
+        padding: 18px 12px 32px 15px;
+}
+.banner-card-box {
+        transform: translate(4px, 37%);
+       
+}
+
+ 
+  .banner-box-text p {
+   
+    font-size: 17px;
+  
+    text-align: center;
+    width: 100%;
+}
+ /*-------- welcome-to-car-parking-strat --------- */
+
+.welcome-to-car-parking-text{
+    margin-left: 50px;
+    width:100%;
+}
+.welcome-to-car-parking-text h2 {
+   
+    font-size: 20px;
+    
+    padding-bottom: 20px;
+}
+.welcome-to-car-parking-text p {
+
+    font-size: 17px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+.welcome-to-car-parking-text h3 {
+   
+    font-size: 40px;
+    
+}
+.welcome-to-car-parking-bg {
+    background-color: #F8F8F8;
+    padding: 76px 0 87px;
+}
+
+
+/* why-choose-parking-start  */
+.why-choose-parking-sec {
+ flex-wrap: wrap;
+ flex-direction: row;
+
+}
+.why-choose-parking-main-sec {
+    display: flex;
+    justify-content: space-between;
+    width: 52%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: start;
+}
+.why-choose-parking-sub-tittle p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: #494848;
+    width:86%;
+    margin-bottom: 20px;
+}
+    .why-choose-parking-sub-tittle h3 {
+        font-family: "Poppins", Sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        line-height: 50px;
+        color: #272727;
+        margin-bottom: 20px;
+        width:100%;
+    }
+
+.why-choose-parking-card-sec {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 48%;
+}
+.why-choose-parking-tittle h2 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #019EE1;
+    margin-bottom: 20px;
+    line-height: 0px;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+.why-chhoose-parking-card-images img {
+    margin-right: 4px;
+}
+.why-choose-parking-card-bg {
+    background-color: #FFFFFF;
+    padding: 32px 26px 26px 19px;
+    border-radius: 20px 20px 20px 20px;
+    margin-bottom: 30px;
+    width: 89%;
+            transform: translate(47px, 11px);
+}
+.why-choose-parking-bg {
+    position: relative;
+    background: linear-gradient(270deg, rgb(0, 121, 248) 50%, rgb(255, 255, 255) 0%);
+    padding: 99px 0px 99px;
+}
+/* type-of-car-parking-section-start  */
+.card h3 {
+    margin-top: 5px;
+    font-size: 18px;
+    color: #000;
+    font-family: "Poppins", Sans-serif;
+}
+.swiper {
+    width: 100%;
+    max-width: 1200px;
+    padding: 62px 0;
+    margin: auto;
+}
+.free-consultatton-box {
+    top: -168px;
+    left: 1px;
+    transform: translate(1px, -83px);
+   padding: 54px 25px 130px 32px
+}
+.feel-free-contact-to-services-part {
+         width: 100%;
+         background-color: #0079F8;
+         padding: 48px 62px 48px 62px;
+         position: absolute;
+         top: -109px;
+         left: 15%;
+transform: translate(-130px, -49%);
+         
+}
+   
+
+    .feel-free-contact-services-button {
+    width: 22%;
+}
+.feel-free-contact-services-sub-tittle {
+    width: 36%;
+}
+.services-text-tittle-3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+}
+.availiable-paking-spaces-card-bg {
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 60px 0px 45px 26px;
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 10px;
+}
+.availiable-paking-spaces-card {
+    padding: 0px 22px 0px 0px;
+}
+.see-our-parking-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.see-our-parking-para-box {
+    background-color: #FFFFFF;
+    padding: 35px 24px 34px 32px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.05);
+    width: 80%;
+}
+.see-our-parking-bg {
+    background-color: #F7F7F7;
+    padding: 100px 0 100px
+}
+.area-we-serving-info-box {
+    text-align: center;
+    padding: 0px 23px;
+}
+.online-parking-app-text-heading p {
+    padding: 10px 0px 30px 0px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+    width: 87%;
+    margin-bottom: 0px;
+}
+.online-parking-app-button-1:nth-child(1) {
+    margin-right: 11px;
+}
+.online-parking-app-bg {
+    background-color: #F8F8F8;
+    padding: 100px 0 100px 0;
+}
+.online-parking-app-button-1 a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #019CE2 0%, #007BF7 100%);
+    border-radius: 100px 100px 100px 100px;
+    padding: 18px 20px 18px 25px;
+    display: flex;
+    align-items: center;
+    transition: all 0.5 ease-in-out;
+}
+.parking-rates-sec {
+ flex-wrap: wrap;
+ flex-direction: row;
+    align-items: center;
+}
+.parking-reates-card {
+    width: 50%;
+    cursor: pointer;
+}
+.parking-reat-button{
+    text-align: center;
+}
+.feedback-parking-sec {
+    display: flex;
+    margin-left: 32px;
+}
+.feedback-parking-images img {
+    max-width: 88%;
+}
+.feedback-parking-main-box-text {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+.parking-upadted-text {
+    padding-left: 0px;
+}
+.parking-upadted-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.feedback-parking-sec {
+      
+        margin-left: 0px;
+    }
+.testimonai-background {
+    background: #fff;
+    padding: 16px;
+    border-radius: 15px;
+    display: flex;
+    width: 88%;
+}
+.parking-upadted-text {
+        padding-left: 0px;
+    }
+    .area-we-serving-iamges {
+     height: 0px; 
+    overflow: hidden;
+    line-height: 0;
+}
+.area-we-serving-content {
+    background: #fff;
+    padding: 11px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.1);
+    padding-bottom: 15px;
+    transition: all 0.5s ease-in-out;
+}
+.footer-sec {
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.footer-box {
+    width: 43%;
+    padding: 0 15px 57px;
+    text-align: start;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner-part -start  */
+.banner-text h2 {
+    font-size: 42px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 51.5px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.banner-text a {
+
+    padding: 20px 20px 20px 20px;
+ 
+    font-size: 17px;
+}
+    
+.banner-box-text h2 {
+  
+    font-size: 17px;
+ 
+}
+.banner-box-text p {
+   
+    font-size: 15px;
+    
+}
+.welcome-to-car-parking-text {
+    margin-left: 56px;
+    width: 50%;
+}
+.welcome-to-car-parking-text h3 {
+   
+    font-size: 40px;
+  
+}
+.welcome-to-car-parking-text p {
+   
+    font-size: 16px;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+.why-choose-parking-main-sec {
+   
+    width: 50%;
+   
+}
+.why-choose-parking-sub-tittle h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.why-choose-parking-sub-tittle p {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: #494848;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.why-choose-parking-card-sec {
+    
+    width: 46%;
+}
+
+.why-choose-parking-card-bg {
+
+    padding: 35px 24px 35px 24px;
+
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+.why-choose-parking-text h4 {
+    margin-bottom: 10px;
+  
+    font-size: 20px;
+    
+}
+.type-of-parking-sub-heading-text {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    margin-bottom: 0px;
+}
+.type-of-parking-text {
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    color: #019EE1;
+    line-height: 1.3em;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.swiper {
+    width: 100%;
+    max-width: 1230px;
+    padding: 60px 0;
+    margin: auto;
+}
+.rent-out-your-driveway-background {
+    background-image: url(../images/rent.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% , 100%;
+    position: relative;
+    z-index: 1;
+    padding-top: 120px;
+    padding-bottom: 195px;
+    background-attachment: fixed;
+}
+.free-consultatton-box {
+    background-color: #F7F7F7;
+    box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    top: -168px;
+    left: 1px;
+    transform: translate(5px, -83px);
+    padding: 49px 27px 108px 22px;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+    z-index: 99;
+}
+.free-consultatton-box {
+    background-color: #F7F7F7;
+    box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    top: -168px;
+    left: 1px;
+    transform: translate(5px, -83px);
+    padding: 49px 27px 108px 22px;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+    z-index: 99;
+}
+.free-consultatton-box {
+    background-color: #F7F7F7;
+    box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    top: -168px;
+    left: 1px;
+    transform: translate(5px, -83px);
+    padding: 49px 27px 108px 22px;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+    z-index: 99;
+}
+.feel-free-contact-services-button {
+    width: 23%;
+}
+.see-our-parking-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.see-our-parking-para-box {
+    background-color: #FFFFFF;
+    padding: 40px 30px 20px 40px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.05);
+    width: 90%;
+}
+.feel-free-contact-services-text h2 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+}
+.services-text-tittle-3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+}
+.services-text-tittle-3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+}
+.free-services-button {
+    background-color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    fill: #252525;
+    color: #252525;
+    border-radius: 0px 0px 0px 0px;
+    padding: 22px 20px 22px 20px;
+    display: inline-block;
+}
+
+.feel-free-contact-to-services-part {
+    width: 93%;
+    background-color: #0079F8;
+    padding: 47px 26px 47px 40px;
+    position: absolute;
+    top: -109px;
+    left: 15%;
+    transform: translate(-109px, -70%);
+    border-radius: 15px;
+    z-index: 9999;
+}
+.see-our-parking-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    margin-bottom: 34px;
+}
+.our-parking-button {
+    background-color: transparent;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-image: linear-gradient(180deg, #019DE1 20%, #007AF7 100%);
+    border-radius: 100px 100px 100px 100px;
+    padding: 22px 35px 22px 35px;
+    transition: all 0.5s ease-in-out;
+}
+.area-we-serving-bg {
+    background-color: #ffffff;
+    background-image: url(../images/serving-bottom.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding: 100px 0px 320px 0px;
+    background-size: 100% ,100%;
+}
+.area-we-serving-text-heading h2 {
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 1px;
+    font-family: "Poppins", Sans-serif;
+    color: #272727;
+}
+.area-we-serving-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(1, 158, 225);
+    text-align: center;
+    margin-bottom: 20px;
+}
+.area-we-serving-info-box {
+    text-align: center;
+    padding: 0px 0px;
+}
+.area-we-serving-sub-tittle {
+    font-size: 21px;
+    font-weight: 600;
+    color: #000;
+    font-family: "Poppins", Sans-serif;
+}
+.area-we-serving-iamges {
+    height: 226px;
+    overflow: hidden;
+    line-height: 0;
+}
+.availiable-paking-spaces-bg {
+    background-image: url(../images/parking-space-1bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+    position: relative;
+    z-index: 1;
+    padding: 100px 0px 120px 0px;
+}
+.availiable-paking-spaces-card {
+    padding: 0px 29px 0px 0px;
+}
+.availiable-paking-spaces-card-bg {
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 45px 30px 45px 45px;
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 10px;
+}
+.availiable-paking-spaces-card-text h4 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.3em;
+    color: #282828;
+    padding-bottom: 10px;
+}
+.online-parking-app-text-heading h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    max-width: 480px;
+    width: 100%;
+    margin-bottom: 17px;
+}
+.online-parking-app-text-heading p {
+    /* padding: 10px 0px 20px 0px; */
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #494848;
+    width: 87%;
+    margin-bottom: 0px;
+    line-height: 30px;
+}
+.online-parking-app-bg {
+    background-color: #F8F8F8;
+    padding: 100px 0 100px 0;
+}
+.online-parking-app-button-1:nth-child(1) {
+    margin-right: 18px;
+}
+.parking-pricing-bg {
+    background-color: #FFFFFF;
+    padding: 100px 0px 100px 0px;
+}
+.parking-pricing-text-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    max-width: 400px;
+    margin-bottom: 19px;
+}
+.parking-pricing-text-tiitle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    color: #0079F8;
+    margin-bottom: 5px;
+}
+.availiable-paking-spaces-text-subtittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+    max-width: 438px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.parking-reat-card-text {
+    font-family: 'Poppins';
+    font-size: 20px;
+    color: #282828;
+}
+.parking-reats-card-content {
+    border-style: dashed;
+    border-width: 1px 1px 1px 1px;
+    margin: 15px 0px 15px 15px;
+    border-radius: 10px;
+    padding: 50px 30px 50px 30px;
+    transition: all 0.5s ease-in-out;
+    border-color: #BCBCBC;
+}
+.parking-upadted-text {
+    padding-left: 47px;
+}
+.parking-upadted-sub-tittle {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #272727;
+    width: 72%;
+    margin-bottom: 20px;
+}
+
+.feedback-parking-images img {
+    max-width: 88%;
+}
+.feedback-parking-sec {
+    display: flex;
+    margin-left: 49px;
+}
+.feedback-parking-main-box-text h4 {
+    font-weight: 600;
+    padding-bottom: 0px;
+    font-size: 17px;
+    font-family: "Poppins", Sans-serif;
+}
+.feedback-parking-main-box-text h3 {
+    font-weight: 600;
+    padding-bottom: 10px;
+    font-size: 17px;
+    color: #282828;
+    font-family: "Poppins", Sans-serif;
+}
+.left-text-section h3 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #FFFFFF;
+    width: 95%;
+    padding-bottom: 20px;
+}
+.testimonai-background {
+    background: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    width: 91%;
+}
+
+.footer-box {
+        width: 25%;
+        padding: 0px -1px 57px;
+        text-align: start;
+    }
+
+
+
+.footer-text a {
+    text-decoration: none;
+    display: inline-block;
+    color: #FFF;
+}
+
+.footer-text h2 {
+    font-family: "Poppins", Sans-serif;
+    color: #FFF;
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+.footer-text p {
+    width: 79%;
+    font-family: "Poppins", Sans-serif;
+    color: #838282;
+    font-size: 13px;
+}
+
+.services-menu li a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: "Poppins", Sans-serif;
+    color: #838282;
+    transition: all 0.5s ease-in-out;
+}
+.quick-menu li a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: "Poppins", Sans-serif;
+    color: #838282;
+    text-transform: capitalize;
+    transition: all 0.5s ease-in-out;
+}
+.quick-menu-para p {
+    color: #c7c7c7;
+    font-size: 16px;
+    font-family: "Poppins", Sans-serif;
+    padding-bottom: 10px;
+}
+.quick-menu-phone-number span {
+    padding-right: 0px;
+}
+.quick-menu-phone-number h3 {
+    font-family: "Poppins", Sans-serif;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    color: #d9d9d9;
+    font-weight: 500;
+
+}
+.quick-menu-email span {
+    padding-right: 0px;
+}
+.quick-menu-email h4 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    color: #d9d9d9;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.quick-menu-website span {
+    padding-right: 0px;
+}
+.quick-menu-website h5 {
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    color: #d9d9d9;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.footer-end-text p {
+    color: #d9d9d9;
+    text-transform: capitalize;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+}
+.footer-end-text a {
+    text-decoration: none;
+    display: inline-block;
+    color: #d9d9d9;
+    text-transform: capitalize;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+}
+.footer-end-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+.footer-background {
+    background-color: #141414;
+    padding: 100px 0 100px;
+}
+}
+
+/* 
+Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width:1920px) { 
+  
+.free-consultatton-box {
+    background-color: #F7F7F7;
+    box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    top: -168px;
+    left: 1px;
+    transform: translate(2px, -81px);
+    padding: 80px 50px 130px 50px;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+    z-index: 99;
+}
+
+
+
+ }
